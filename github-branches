@@ -1,7 +1,6 @@
-$ git branch -a -v
-  bug-fix-revert                3bc4a3f Add required evidence files for Coursera assessment
-  bug-fix-typo                  dc4f04e Fix documentation typo in README.md
-* main                          3bc4a3f Add required evidence files for Coursera assessment
-  remotes/origin/bug-fix-revert 3bc4a3f Add required evidence files for Coursera assessment
+﻿* bug-fix-revert                dfdbf69 Improve README contribution information
+  main                          c9ed928 Update LICENSE with official Apache 2.0 terms and update github-branches with bug-fix-revert
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert dfdbf69 Improve README contribution information
   remotes/origin/bug-fix-typo   dc4f04e Fix documentation typo in README.md
-  remotes/origin/main           3bc4a3f Add required evidence files for Coursera assessment
+  remotes/origin/main           c9ed928 Update LICENSE with official Apache 2.0 terms and update github-branches with bug-fix-revert
