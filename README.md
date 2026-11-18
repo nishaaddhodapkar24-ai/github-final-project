@@ -73,4 +73,6 @@ This project is licensed under the **Apache License 2.0**. See the [LICENSE](LIC
 
 ## Contribution
 
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for more information.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for more information
+
+Contributions to improve this project are welcome. You can suggest improvements, report bugs, and submit fixes through pull requests.
